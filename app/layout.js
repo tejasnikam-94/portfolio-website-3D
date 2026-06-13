@@ -1,0 +1,1 @@
+import './globals.css'; export const metadata={title:'Tejas Nikam'}; export default function RootLayout({children}){return <html><body>{children}</body></html>}
